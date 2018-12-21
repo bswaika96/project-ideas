@@ -1,6 +1,7 @@
 # Project Ideas
 
-### 1. Phygital Store Platform
+## 1. Phygital Store Platform
+
 > An entire phygital commerce platform using Web Technologies, NFC, and Mobile Technologies
 
 __Core Offerings :__
